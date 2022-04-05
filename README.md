@@ -8,6 +8,7 @@ horizontal o diagonal con 3 de sus símbolos.
 Este programa es parte del desarrollo del curso Programación
 de Videojuegos de la carrera Ciencias de la Computación de la 
 UCSP.
+
 Por los alumnos:
 Alexis Raul Espinoza Villanueva
 Renato Oscar Corrales Peña
