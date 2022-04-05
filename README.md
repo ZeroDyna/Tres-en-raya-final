@@ -9,10 +9,10 @@ Este programa es parte del desarrollo del curso Programación
 de Videojuegos de la carrera Ciencias de la Computación de la 
 UCSP.
 
-Por los alumnos:
-Alexis Raul Espinoza Villanueva
-Renato Oscar Corrales Peña
-Guillermo Aaron Kenan Flor Vilca
+*Por los alumnos:
+*Alexis Raul Espinoza Villanueva
+*Renato Oscar Corrales Peña
+*Guillermo Aaron Kenan Flor Vilca
 ## Instrucciones de ejecución
 1. Para ejecutar el programa el usuario deberá tener instalado python e ingresar:
 
