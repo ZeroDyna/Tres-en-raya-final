@@ -8,11 +8,15 @@ horizontal o diagonal con 3 de sus símbolos.
 Este programa es parte del desarrollo del curso Programación
 de Videojuegos de la carrera Ciencias de la Computación de la 
 UCSP.
+Por los alumnos:
+Alexis Raul Espinoza Villanueva
+Renato Oscar Corrales Peña
+Guillermo Aaron Kenan Flor Vilca
 ## Instrucciones de ejecución
 1. Para ejecutar el programa el usuario deberá tener instalado python e ingresar:
 
     ```
-    >>> python3 tic_tac_toe.py
+    >>> python3 tres-en-raya-permanente1.py
     ```
  2. Al iniciar el programa mostrará el tablero de 3x3 y solicitará a uno de los jugadores que ingrese un número entre 1 y 9.
     
